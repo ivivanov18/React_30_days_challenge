@@ -1,0 +1,8 @@
+.keys {
+  background: url(http://i.imgur.com/b9r5sEL.jpg);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
